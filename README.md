@@ -167,5 +167,5 @@ JSON（JavaScript Object Notation）は、軽量なデータ交換フォーマ�
 
 keyを指定するとvalueの呼び出しが行える。
 ___
-
-![猫](https://www.google.com/url?sa=i&url=https%3A%2F%2Fneko-meister.com%2Fimage%2Fblack-cat%2F&psig=AOvVaw0aa5-ix-tiIuC0UuxaURo5&ust=1690693893155000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCKDy2duTs4ADFQAAAAAdAAAAABAI)
+### 画像の貼り付け
+![image](https://github.com/MisatoMaesaka/RaiseTech5_SpecialAssignment/assets/139186715/842a672b-ef2e-4e38-8131-edb38dfd205f)
