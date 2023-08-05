@@ -185,3 +185,4 @@ ___
 ![image](https://github.com/MisatoMaesaka/RaiseTech5_SpecialAssignment/assets/139186715/842a672b-ef2e-4e38-8131-edb38dfd205f)
 
 VSコードで変更したものをGitHubに上げてみた
+ブランチを作ってPRしてからマージして更新する
